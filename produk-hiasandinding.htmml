@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiasan Motherboard | Trash To Treasure</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <a href="index.html" class="logo"><span>♻</span> Trash To Treasure</a>
+        <a href="index.html#produk" class="btn-outline">← Kembali</a>
+    </nav>
+</header>
+
+<main>
+<section class="detail-page">
+
+    <p class="eyebrow">TECH ART</p>
+    <h1>Hiasan Dinding dari Motherboard Bekas</h1>
+
+    <p class="intro">
+        Hiasan dinding ini memanfaatkan motherboard laptop atau komputer
+        bekas serta komponen stik game menjadi dekorasi bertema teknologi.
+    </p>
+
+    <div class="detail-grid">
+
+        <div class="detail-box">
+            <h2>🖥️ Alat dan Bahan</h2>
+            <ul>
+                <li>Motherboard laptop atau PC bekas</li>
+                <li>Stik analog atau tombol stik PS2/PS3 bekas</li>
+                <li>Bingkai foto kayu atau MDF</li>
+                <li>Papan triplek atau MDF tipis</li>
+                <li>Cat semprot hitam doff atau putih</li>
+                <li>Lem tembak dan lem G</li>
+                <li>Baut kecil dan kabel tie</li>
+                <li>Obeng set dan tang potong</li>
+                <li>Kuas cat dan amplas</li>
+            </ul>
+        </div>
+
+        <div class="detail-box">
+            <h2>🛠 Langkah Pembuatan</h2>
+            <ol>
+                <li>Pilih motherboard dan komponen bekas yang akan digunakan.</li>
+                <li>Bersihkan permukaan motherboard menggunakan kuas kering.</li>
+                <li>Siapkan papan alas dan berikan warna dasar.</li>
+                <li>Susun motherboard dan komponen stik game sebagai dekorasi.</li>
+                <li>Rekatkan komponen menggunakan perekat yang sesuai.</li>
+                <li>Masukkan hasil karya ke dalam bingkai.</li>
+                <li>Periksa kembali kerapian dan kekuatan tempelan.</li>
+            </ol>
+        </div>
+
+    </div>
+
+    <div class="price-section">
+        <h2>💰 Estimasi Biaya</h2>
+        <p>Silakan masukkan nominal sesuai rincian biaya pada makalah.</p>
+    </div>
+
+</section>
+</main>
+
+<footer>
+    <h2>♻ Trash To Treasure</h2>
+    <p>Barang bekas dapat menjadi karya yang berharga.</p>
+</footer>
+
+</body>
+</html>
